@@ -1,0 +1,1 @@
+# DirectivesDynamicHTMLLec26
