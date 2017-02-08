@@ -12,6 +12,7 @@ function ListItem()
 {
   var ddo=
   {
+    restrict:"A",//AE
     templateUrl:'listItem.html'
   }
   return ddo;
